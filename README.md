@@ -1,4 +1,6 @@
 # argonautes
+![Alt text](relative/path/to/argonautes.png?raw=true "Title")
+
 Cette page comporte :
 
     un champ de formulaire permettant de saisir le nom d'un nouvel argonaute,
